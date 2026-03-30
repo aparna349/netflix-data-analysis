@@ -1,10 +1,12 @@
-# 🎬 Netflix Data Analysis
+#  Netflix Data Analysis
 
-## Overview
+##  Overview
 
 This project analyzes Netflix movies and TV shows dataset to identify trends, patterns, and insights.
 
-## 📊 Analysis Performed
+---
+
+##  Analysis Performed
 
 * Movies vs TV Shows comparison
 * Top producing countries
@@ -12,39 +14,60 @@ This project analyzes Netflix movies and TV shows dataset to identify trends, pa
 * Genre distribution
 * Ratings analysis
 
-## Key Insights
+---
+
+##  Key Insights
 
 * Netflix content increased significantly after 2015
 * Movies dominate over TV Shows
 * USA produces the highest content
 * Drama and International genres are popular
 * TV-MA is the most common rating
-  ## Visualizations
+
+---
+
+##  Visualizations
 
 ###  Movies vs TV Shows
 
+![Movies vs TV](moviesvsTVshows.png)
+
 ###  Top Producing Countries
+
+![Top Countries](top_countries.png)
 
 ###  Content Growth Over Years
 
-### Ratings Distribution
+![Growth](growth.png)
 
-### Top Genres
+###  Ratings Distribution
 
+![Ratings](ratings.png)
 
-## Business Impact
+###  Top Genres
+
+![Genres](genres.png)
+
+---
+
+##  Business Impact
 
 * Helps understand audience preferences
 * Supports content strategy decisions
 * Identifies growth trends
 
-## Tools Used
+---
+
+##  Tools Used
 
 * Python
 * Pandas
 * Matplotlib
 * Seaborn
 
+---
+
 ## Author
 
 Aparna Padhy
+
